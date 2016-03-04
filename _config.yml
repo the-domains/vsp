@@ -1,0 +1,28 @@
+name: Vision Strategic Planning
+favicon: null
+layout_spectrum: 0.8057174587156624
+typography_spectrum: 0.9764528314117342
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.7206143788062036
+  lightness: 0.0075095531065016985
+  saturation: 0.38226705719716847
+  rhythmicContrast: 0.09724502940662205
+purpose: []
